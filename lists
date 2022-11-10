@@ -1,19 +1,42 @@
 Starters = ['Southern Fried Pickles', 'Cheese Beans', 'Pub Nachos', 'Chicken Wings', 'Cheese Dip', 'Onion Rings', 'Pretzel Sticks', 'Shrimp Skewers']
+starters_price = [7.00, 8.50, 10.00, 10.50, 7.50, 7.50, 7.50, 9.00]
+#####
 Soups_and_Salads = ['House Made Chili', 'Soup of the Day', 'Pub Salad', 'Warm Grain Bowl', 'Caesar Salad', 'Corner Cobb']
+#####
 Burgers = ['The King', 'Shroom & Swiss', 'Smokehouse', 'Jalapeno Cheddar', 'Black Bean Burger', 'Pub Melt']
+burger_price = [11.00, 11.50, 12.00, 12.00, 9.50, 11.50]
+turkey_burger = 1.00
+#####
 Sandwiches_Wraps_Steamers = ['Big Veggie Sandwich', 'Corner Chicken Wrap', 'Turkey Wrap', 'Chicken Salad', 'Corner Club', 'Chicken Sandwich', 'French Dip', 'Roast Beef Hoagie', 'BBQ Sandwich', 'Buffalo Chicken Steamers', 'CP Steamers', 'New York Style Reuben']
+sandwich_prices = [11.00, 10.00, 11.00, 10.00, 11.00, 11.00, 10.00, 11.50, 11.00, 10.00, 10.00, 14.00]
+#####
+Meat_n_Three = ['Meat & 2', 'Meat & 3', 'Veggie Plate', 'Senior Meat']
+meat_n_three_price = [10.00, 11.00, 9.00, 8.50]
 Meat = ['Country Fried Chicken & Gravy', 'Grilled Lemon Pepper', 'Catfish', 'Chopped Steak with Sauteed Mushrooms & Onions', 'Fried Catfish', 'Meatloaf', 'Grilled or Blackened Chicken', 'Breast', 'BBQ Pulled Pork']
 Everyday_Sides = ['Mashed Potatoes & Gravy', 'Turnip Greens', 'White Beans', 'Green Beans', 'Broccoli & Cheese', 'Cream Corn', 'French Fries', 'Fried Okra', 'Baked Potato', 'Fresh Cut Fruit', 'Mac & Cheese', 'Side Salad', 'Coleslaw', 'Steamed Veggies', 'Steamed Veggies', 'Tater Tots', 'Onion Rings']
+#####
 Entrees = ['Bulleit Bourbon Glazed Kabobs', 'Steaks & Biscuits', 'The Commodore', 'Polynesian Chicken', 'Pork Chop', 'Grilled Ribeye']
+Kabobs = ['Beef, 'Chicken', 'Fresh Salmon']
+kabobs_price = [15.00, 12.00, 17.00]
+entrees_price = [kabobs_price, 15.00, 17.00, 15.00, 16.00, 19.00]
+#####
 Baskets = ['Fish & Chips', 'Chicken Tenders', 'Fried Catfish', 'Hot Chicken Chunks']
+baskets_price = [12.00, 11.00, 12.00, 11.00]
+#####
 Quesadillas = ['Cheese Quesadilla', 'Veggie Quesadilla', 'Chicken Quesadilla', 'Steak Quesadilla']
+quesadilla_price = [9.00, 10.00, 11.00, 12.00]
+#####
 Tacos = ['Fish Tacos (2)', 'Shrimp Taco']
+taco_price = [10.50, 11.50]
 
-drink_names = ["Mill Creek Lady", "Mill Creek Darling", "Mill Creek Juicy Daze", "Angry Orchard", "Tailgate Peanut Butter Milk Stout", "Sweetwater 420",
-               "Sweetwater Blood Orange Radler", "Wicked Weed Pernicious", "Wicked Weed Pernicious", "Yazoo Gerst", "Yazoo Dos Perros", "Dogfish Head 60 min IPA",
-               "Jackalope Bearwalker", "Jackalope Lovebird", "Black Abbey The Rose", "Cigar City Jai Alai", "New Belgium Voodoo Ranger", "Good People IPA",
-               "Bells Two Hearted", "Stella", "Guinness", "Kentucky Bourbon Barrel Ale", "Bearded Iris Homestyle", "Fat Tire", "Fat Bottom Knockout",
-               "Music City Light", "Blue Moon", "Yuengling Lager", "Sam Adams Seasonal", "Modelo", "Bud Light", "Miller Lite", "Mich Ultra"]
+drink_names = ['Mill Creek Lady', 'Mill Creek Darling', 'Mill Creek Juicy Daze', 'Angry Orchard', 'Tailgate Peanut Butter Milk Stout', 'Sweetwater 420',
+               'Sweetwater Blood Orange Radler', 'Wicked Weed Pernicious', 'Wicked Weed Pernicious', 'Yazoo Gerst', 'Yazoo Dos Perros', 'Dogfish Head 60 min IPA',
+               'Jackalope Bearwalker', 'Jackalope Lovebird', 'Black Abbey The Rose', 'Cigar City Jai Alai', 'New Belgium Voodoo Ranger', 'Good People IPA',
+               'Bells Two Hearted', 'Stella', 'Guinness', 'Kentucky Bourbon Barrel Ale', 'Bearded Iris Homestyle', 'Fat Tire', 'Fat Bottom Knockout',
+               'Music City Light', 'Blue Moon', 'Yuengling Lager', 'Sam Adams Seasonal', 'Modelo', 'Bud Light', 'Miller Lite', 'Mich Ultra']
                
 drink_prices = [6.00, 5.00, 7.00, 5.75, 7.00, 5.50, 5.50, 7.00, 5.00, 5.00, 5.50, 6.00, 6.00, 6.00, 7.00, 5.50, 6.00, 7.00, 6.00, 6.00, 8.00, 7.50, 5.50, 5.50,
                 5.50, 5.00, 5.50, 5.00, 6.00, 5.50, 5.00, 5.00, 5.00]
+                
+drink_sizes = ['relaxed', 'buzzed', 'drunk', 'becky']
+
