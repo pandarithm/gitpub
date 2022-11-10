@@ -14,3 +14,6 @@ drink_names = ["Mill Creek Lady", "Mill Creek Darling", "Mill Creek Juicy Daze",
                "Jackalope Bearwalker", "Jackalope Lovebird", "Black Abbey The Rose", "Cigar City Jai Alai", "New Belgium Voodoo Ranger", "Good People IPA",
                "Bells Two Hearted", "Stella", "Guinness", "Kentucky Bourbon Barrel Ale", "Bearded Iris Homestyle", "Fat Tire", "Fat Bottom Knockout",
                "Music City Light", "Blue Moon", "Yuengling Lager", "Sam Adams Seasonal", "Modelo", "Bud Light", "Miller Lite", "Mich Ultra"]
+               
+drink_prices = [6.00, 5.00, 7.00, 5.75, 7.00, 5.50, 5.50, 7.00, 5.00, 5.00, 5.50, 6.00, 6.00, 6.00, 7.00, 5.50, 6.00, 7.00, 6.00, 6.00, 8.00, 7.50, 5.50, 5.50,
+                5.50, 5.00, 5.50, 5.00, 6.00, 5.50, 5.00, 5.00, 5.00]
