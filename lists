@@ -8,3 +8,9 @@ Entrees = ['Bulleit Bourbon Glazed Kabobs', 'Steaks & Biscuits', 'The Commodore'
 Baskets = ['Fish & Chips', 'Chicken Tenders', 'Fried Catfish', 'Hot Chicken Chunks']
 Quesadillas = ['Cheese Quesadilla', 'Veggie Quesadilla', 'Chicken Quesadilla', 'Steak Quesadilla']
 Tacos = ['Fish Tacos (2)', 'Shrimp Taco']
+
+drink_names = ["Mill Creek Lady", "Mill Creek Darling", "Mill Creek Juicy Daze", "Angry Orchard", "Tailgate Peanut Butter Milk Stout", "Sweetwater 420",
+               "Sweetwater Blood Orange Radler", "Wicked Weed Pernicious", "Wicked Weed Pernicious", "Yazoo Gerst", "Yazoo Dos Perros", "Dogfish Head 60 min IPA",
+               "Jackalope Bearwalker", "Jackalope Lovebird", "Black Abbey The Rose", "Cigar City Jai Alai", "New Belgium Voodoo Ranger", "Good People IPA",
+               "Bells Two Hearted", "Stella", "Guinness", "Kentucky Bourbon Barrel Ale", "Bearded Iris Homestyle", "Fat Tire", "Fat Bottom Knockout",
+               "Music City Light", "Blue Moon", "Yuengling Lager", "Sam Adams Seasonal", "Modelo", "Bud Light", "Miller Lite", "Mich Ultra"]
