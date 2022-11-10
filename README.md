@@ -11,3 +11,7 @@ Classes:
 - Customer
 - Tables
 - Accounting Systems
+- Television Channel
+  - Webscrape ESPN for scheduled games that are currently playing. 
+  
+
