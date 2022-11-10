@@ -15,10 +15,8 @@ meat_n_three_price = [10.00, 11.00, 9.00, 8.50]
 Meat = ['Country Fried Chicken & Gravy', 'Grilled Lemon Pepper', 'Catfish', 'Chopped Steak with Sauteed Mushrooms & Onions', 'Fried Catfish', 'Meatloaf', 'Grilled or Blackened Chicken', 'Breast', 'BBQ Pulled Pork']
 Everyday_Sides = ['Mashed Potatoes & Gravy', 'Turnip Greens', 'White Beans', 'Green Beans', 'Broccoli & Cheese', 'Cream Corn', 'French Fries', 'Fried Okra', 'Baked Potato', 'Fresh Cut Fruit', 'Mac & Cheese', 'Side Salad', 'Coleslaw', 'Steamed Veggies', 'Steamed Veggies', 'Tater Tots', 'Onion Rings']
 #####
-Entrees = ['Bulleit Bourbon Glazed Kabobs', 'Steaks & Biscuits', 'The Commodore', 'Polynesian Chicken', 'Pork Chop', 'Grilled Ribeye']
-Kabobs = ['Beef, 'Chicken', 'Fresh Salmon']
-kabobs_price = [15.00, 12.00, 17.00]
-entrees_price = [kabobs_price, 15.00, 17.00, 15.00, 16.00, 19.00]
+Entrees = ['Beef Kabob', 'Chicken Kabob' , 'Salmon Kabob', 'Steaks & Biscuits', 'The Commodore', 'Polynesian Chicken', 'Pork Chop', 'Grilled Ribeye']
+entrees_price = [15.00, 12.00, 17.00, 15.00, 17.00, 15.00, 16.00, 19.00]
 #####
 Baskets = ['Fish & Chips', 'Chicken Tenders', 'Fried Catfish', 'Hot Chicken Chunks']
 baskets_price = [12.00, 11.00, 12.00, 11.00]
